@@ -22,9 +22,9 @@ Mô tả:
 Ảnh chụp màn hình
 -----------
 
-![Trang chủ](Screenshots/home.png "A list of category")
-![Xem món ăn](Screenshots/home2.png "Details for category")
-![Chi tiết món ăn](Screenshots/detail.png "More about food")
+![Trang chủ](Screenshots/home.PNG "A list of category")
+![Xem món ăn](Screenshots/home2.PNG "Details for category")
+![Chi tiết món ăn](Screenshots/detail.PNG "More about food")
 
 License
 -------
