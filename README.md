@@ -26,7 +26,7 @@ Mô tả:
 ![Xem món ăn](Screenshots/home2.PNG "Details for category")
 ![Chi tiết món ăn](Screenshots/detail.PNG "More about food")
 
-License
+Nhóm 13 LTDD - TH73
 -------
 
 Copyright 2020 Nhóm 15 App Công thức nấu ăn.
