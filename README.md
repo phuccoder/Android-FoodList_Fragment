@@ -7,10 +7,10 @@
 Các thành viên:
 ------------
 
-- Nguyễn Hoàng Phúc  : Phần xem Chi tiết món ăn (Activity, Layout, Adapter, Fragment, Hình ảnh chi tiết, sưu tầm công thức nguyên liệu) + Tạo và thiết kế Database.
-- Nguyễn Thanh Phong : Trang chủ danh sách loại món ăn( Acitvity + Layout + Adapter + Fragment ).
-- Nguyễn Hoàng Minh Phúc : các class hỗ trợ hình ảnh, database...: MyImageView + HelperDatabase  + FileUtil.
-- Lê Nhật Phi : Trang danh sách món ăn trong từng loại ( Activity + Layout + Adapter + Fragment ).
+- Nguyễn Hoàng Phúc
+- Nguyễn Thanh Phong
+- Nguyễn Hoàng Minh Phúc
+- Lê Nhật Phi
 
 
 Mô tả:
