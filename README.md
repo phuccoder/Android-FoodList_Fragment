@@ -1,37 +1,31 @@
 
- Công thức nấu ăn
+ Food Recipes
 =================
 
-
-
-Các thành viên:
+Members
 ------------
 
-- Nguyễn Hoàng Phúc
-- Nguyễn Thanh Phong
-- Nguyễn Hoàng Minh Phúc
-- Lê Nhật Phi
+- Nguyen Hoang Phuc
+- Nguyen Thanh Phong
+- Nguyen Hoang Minh Phuc
+- Le Nhat Phi
 
-
-Mô tả:
+Descriptions
 ---------------
-* Trang chủ hiển thị danh sách các loại món ăn phổ biến.
- * Trong mỗi loại chứa các món ăn của loại đó.
- * Phần chi tiết món ăn bao gồm : hình ảnh minh họa, nguyên liệu và cách làm.
+* Show to you details of Food and How to make it.
+* We hope you enjoy it. Thank you so more!
 
-Ảnh chụp màn hình
+Screenshots
 -----------
 
 ![Trang chủ](Screenshots/home.PNG "A list of category")
 ![Xem món ăn](Screenshots/home2.PNG "Details for category")
 ![Chi tiết món ăn](Screenshots/detail.PNG "More about food")
 
-Nhóm 15 LTDD - TH73
+Crew 15 LTDD - TH73
 -------
 
-Copyright 2020 Nhóm 15 App Công thức nấu ăn.
+Copyright 2020 Crew 15 App Food Recipes.
 
-Hình ảnh, nguyên liệu và công thức được sao chép từ:
-
-  https://www.cooky.vn/
+Media Resources by: https://www.cooky.vn/
 
