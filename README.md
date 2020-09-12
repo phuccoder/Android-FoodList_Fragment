@@ -22,7 +22,7 @@ Screenshots
 ![Xem món ăn](Screenshots/home2.PNG "Details for category")
 ![Chi tiết món ăn](Screenshots/detail.PNG "More about food")
 
-Crew 15 LTDD - TH73
+Crew 15
 -------
 
 Copyright 2020 Crew 15 App Food Recipes.
