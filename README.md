@@ -12,7 +12,7 @@ Members
 
 Descriptions
 ---------------
-* Show to you details of Food and How to make it.
+* Show you details of Food and How to make it.
 * We hope you enjoy it. Thank you so more!
 
 Screenshots
@@ -27,5 +27,5 @@ Crew 15
 
 Copyright 2020 Crew 15 App Food Recipes.
 
-Media Resources by: https://www.cooky.vn/
+Media Resources: https://www.cooky.vn/
 
